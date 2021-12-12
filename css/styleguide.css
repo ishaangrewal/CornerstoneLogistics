@@ -1,11 +1,11 @@
-:root { 
+:root {
   --black: #000000;
   --black-2: #000000cc;
   --bombay: #aeb3be;
   --candlelight: #fed215;
   --royal-blue: #5559e6;
   --white: #ffffff;
- 
+
   --font-size-l: 18px;
   --font-size-m: 16px;
   --font-size-s: 14px;
@@ -13,7 +13,7 @@
   --font-size-xxl: 36px;
   --font-size-xxxl: 44px;
   --font-size-xxxxl: 48px;
- 
+
   --font-family-cabin-regular: "Cabin-Regular", Helvetica;
   --font-family-ibm_plex_sans: "IBM Plex Sans", Helvetica;
   --font-family-ibm_plex_sans-extralight: "IBM Plex Sans-ExtraLight", Helvetica;
@@ -37,6 +37,8 @@
 }
 
 .ibmplexsans-bold-white-16px {
+  margin: 0px;
+  padding: 0px;
   color: var(--white);
   font-family: var(--font-family-ibm_plex_sans);
   font-size: var(--font-size-m);

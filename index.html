@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=1440, maximum-scale=1.0" />
-    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <link rel="shortcut icon" type="image/png" href="img/logo.jpeg" />
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="photo" />
     <link rel="stylesheet" type="text/css" href="css/desktop-1.css" />
@@ -65,7 +65,7 @@
             <div class="every-part-of-your-j valign-text-bottom">
               Every part of your job <br />made easy in one place.
             </div>
-            <div class="become-an-early-adopter valign-text-bottom ibmplexsans-bold-white-16px">
+            <div class="become-an-early-adopter valign-text-bottom ibmplexsans-bold-white-16px" onmouseover= "mouseOver(this)" onmouseout="mouseOff(this)">
               Become an <br />Early Adopter
             </div>
             <img class="screen-shot-2021-11-22-at-537-1" src="img/screen-shot-2021-11-22-at-5-37-1@1x.png" />
@@ -76,18 +76,18 @@
             <img class="cornerstone-1" src="img/cornerstone-1@2x.svg" />
             <div class="group-1">
               <div class="ornerstone valign-text-bottom ibmplexsans-bold-white-19px">ornerstone</div>
-              <div class="place valign-text-bottom ibmplexsans-bold-black-14px">Home</div>
-              <a href="desktop-3.html"><div class="about valign-text-bottom ibmplexsans-bold-black-14px">About</div> </a
+              <div class="place valign-text-bottom ibmplexsans-bold-black-14px" onmouseover= "mouseOverOther(this)" onmouseout="mouseOffOther(this)">Home</div>
+              <a href="desktop-3.html"><div class="about valign-text-bottom ibmplexsans-bold-black-14px" onmouseover= "mouseOverOther(this)" onmouseout="mouseOffOther(this)">About</div> </a
               ><a href="desktop-6.html"
-                ><div class="features valign-text-bottom ibmplexsans-bold-black-14px">Features</div>
+                ><div class="features valign-text-bottom ibmplexsans-bold-black-14px" onmouseover= "mouseOverOther(this)" onmouseout="mouseOffOther(this)">Features</div>
               </a>
               <div class="overlap-group">
-                <div class="get-started valign-text-bottom ibmplexsans-bold-white-15px">Get Started</div>
+                <div class="get-started valign-text-bottom ibmplexsans-bold-white-15px" onmouseover= "mouseOver(this)" onmouseout="mouseOff(this)">Get Started</div>
               </div>
             </div>
           </div>
           <div class="overlap-group4">
-            <div class="learn-more valign-text-bottom ibmplexsans-bold-white-16px">Learn More</div>
+            <div class="learn-more valign-text-bottom ibmplexsans-bold-white-16px" onmouseover= "mouseOver(this)" onmouseout="mouseOff(this)">Learn More</div>
           </div>
           <div class="easily-exchange-docu valign-text-bottom ibmplexsans-normal-black-18px">
             Easily exchange documents, sketches, ideas, photos, and more in a private or group chat setting.
@@ -96,16 +96,35 @@
             Anticipate, prepare for, and determine the cause of delays or expeditions before they happen.
           </div>
           <div class="overlap-group5">
-            <div class="learn-more valign-text-bottom ibmplexsans-bold-white-16px">Learn More</div>
+            <div class="learn-more valign-text-bottom ibmplexsans-bold-white-16px" onmouseover= "mouseOver(this)" onmouseout="mouseOff(this)">Learn More</div>
           </div>
           <div class="overlap-group6">
-            <div class="learn-more valign-text-bottom ibmplexsans-bold-white-16px">Learn More</div>
+            <div class="learn-more valign-text-bottom ibmplexsans-bold-white-16px" onmouseover= "mouseOver(this)" onmouseout="mouseOff(this)">Learn More</div>
           </div>
           <div class="overlap-group2">
-            <div class="learn-more valign-text-bottom ibmplexsans-bold-white-16px">Learn More</div>
+            <div class="learn-more valign-text-bottom ibmplexsans-bold-white-16px" onmouseover= "mouseOver(this)" onmouseout="mouseOff(this)">Learn More</div>
           </div>
         </div>
       </div>
     </div>
+    <script>
+      function mouseOver(x) {
+        x.style.backgroundColor = "white";
+        x.style.color = "#5559e6";
+        x.style.borderRadius = "5px";
+      }
+      function mouseOff(x) {
+        x.style.color = "white";
+        x.style.backgroundColor = "#5559e6";
+      }
+      function mouseOffOther(x) {
+        x.style.color = "black";
+        x.style.textDecoration = "none";
+      }
+      function mouseOverOther(x) {
+        x.style.color = "white";
+        x.style.textDecoration = "underline";
+      }
+      </script>
   </body>
 </html>
