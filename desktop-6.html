@@ -32,9 +32,9 @@
           <img class="cornerstone-1" src="img/cornerstone-1-2@2x.svg" />
           <div class="group-1">
             <div class="ornerstone valign-text-bottom ibmplexsans-bold-white-19px">ornerstone</div>
-            <a href="index.html"><div class="place valign-text-bottom ibmplexsans-bold-black-14px">Home</div> </a
-            ><a href="desktop-3.html"><div class="about valign-text-bottom ibmplexsans-bold-black-14px">About</div> </a>
-            <div class="features-1 valign-text-bottom ibmplexsans-bold-black-14px">Features</div>
+            <a href="index.html"><div class="place valign-text-bottom ibmplexsans-bold-black-14px" onmouseover="mouseOverOther(this)" onmouseout="mouseOffOther(this)">Home</div> </a
+            ><a href="desktop-3.html"><div class="about valign-text-bottom ibmplexsans-bold-black-14px" onmouseover="mouseOverOther(this)" onmouseout="mouseOffOther(this)">About</div> </a>
+            <div class="features-1 valign-text-bottom ibmplexsans-bold-black-14px" onmouseover="mouseOverOther(this)" onmouseout="mouseOffOther(this)">Features</div>
             <div class="overlap-group">
               <div class="get-started valign-text-bottom ibmplexsans-bold-white-15px">Get Started</div>
             </div>
@@ -99,5 +99,24 @@
         </div>
       </div>
     </div>
+    <script>
+      function mouseOver(x) {
+        x.style.backgroundColor = "white";
+        x.style.color = "#5559e6";
+        x.style.borderRadius = "5px";
+      }
+      function mouseOff(x) {
+        x.style.color = "white";
+        x.style.backgroundColor = "#5559e6";
+      }
+      function mouseOffOther(x) {
+        x.style.color = "black";
+        x.style.textDecoration = "none";
+      }
+      function mouseOverOther(x) {
+        x.style.color = "white";
+        x.style.textDecoration = "underline";
+      }
+      </script>
   </body>
 </html>
