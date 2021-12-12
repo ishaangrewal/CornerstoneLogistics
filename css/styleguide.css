@@ -1,0 +1,133 @@
+:root { 
+  --black: #000000;
+  --black-2: #000000cc;
+  --bombay: #aeb3be;
+  --candlelight: #fed215;
+  --royal-blue: #5559e6;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 36px;
+  --font-size-xxxl: 44px;
+  --font-size-xxxxl: 48px;
+ 
+  --font-family-cabin-regular: "Cabin-Regular", Helvetica;
+  --font-family-ibm_plex_sans: "IBM Plex Sans", Helvetica;
+  --font-family-ibm_plex_sans-extralight: "IBM Plex Sans-ExtraLight", Helvetica;
+  --font-family-roboto-medium: "Roboto-Medium", Helvetica;
+  --font-family-sf_pro_text-regular: "SF Pro Text-Regular", Helvetica;
+}
+.ibmplexsans-bold-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ibmplexsans-bold-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ibmplexsans-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ibmplexsans-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ibmplexsans-light-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.ibmplexsans-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ibmplexsans-bold-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ibmplexsans-semi-bold-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.ibmplexsans-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ibmplexsans-bold-white-19px {
+  color: var(--white);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ibmplexsans-bold-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ibmplexsans-bold-black-44px {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sfprotext-regular-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-2px-black {
+  border: 2px solid var(--black);
+}
+
+.border-10px-royal-blue {
+  border: 10px solid var(--royal-blue);
+}
