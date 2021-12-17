@@ -7,14 +7,14 @@
   flex-direction: column;
   height: 4469px;
   overflow: hidden;
-  width: 1440px;
+  width: 100%;
 }
 
 .index .overlap-group12 {
   height: 837px;
-  margin-left: 6.0px;
+  margin-left: 6px;
   position: relative;
-  width: 1446px;
+  width: 102%;
 }
 
 .index .rectangle-2 {
@@ -22,7 +22,7 @@
   left: 0;
   position: absolute;
   top: 0;
-  width: 1440px;
+  width: 100%;
 }
 
 .index .every-part-of-your-j {
@@ -31,11 +31,11 @@
   font-size: 40px;
   font-weight: 700;
   height: 104px;
-  left: 135px;
+  left: 9.35%;
   letter-spacing: 0;
   position: absolute;
   top: 285px;
-  width: 468px;
+  width: 32.5%;
 }
 
 .index .introducing-cornerstone {
@@ -44,28 +44,28 @@
   font-size: var(--font-size-xl);
   font-weight: 200;
   height: 31px;
-  left: 138px;
+  left: 9.6%;
   letter-spacing: 0;
   position: absolute;
   top: 250px;
-  width: 300px;
+  width: 21%;
 }
 
 .index .become-an-early-adopter {
   height: 61px;
-  left: 91px;
+  left: 6.32%;
   letter-spacing: 0;
   position: absolute;
   top: 489px;
-  width: 347px;
+  width: 24.1%;
 }
 
 .index .email {
   align-items: flex-start;
   display: flex;
   height: 36px;
-  left: 104px;
-  min-width: 482px;
+  left: 7.2%;
+  min-width: 33.4%;
   position: absolute;
   top: 569px;
 }
@@ -89,7 +89,7 @@
   height: 36px;
   letter-spacing: 0;
   padding: 0;
-  width: 482px;
+  width: 34%;
 }
 
 .index .email-1::placeholder {
@@ -101,7 +101,7 @@
   display: flex;
   height: 106px;
   left: 0;
-  min-width: 1446px;
+  min-width: 100%;
   padding: 28px 49px;
   position: absolute;
   top: 0;
@@ -117,8 +117,8 @@
   cursor: pointer;
   height: 18px;
   letter-spacing: 0;
-  margin-bottom: 2.0px;
-  margin-left: 780px;
+  margin-bottom: 2px;
+  margin-left: 54.2%;
   width: 40px;
 }
 
@@ -126,7 +126,7 @@
   cursor: pointer;
   height: 18px;
   letter-spacing: 0;
-  margin-bottom: 2.0px;
+  margin-bottom: 2px;
   margin-left: 44px;
   width: 40px;
 }
@@ -135,7 +135,7 @@
   cursor: pointer;
   height: 18px;
   letter-spacing: 0;
-  margin-bottom: 2.0px;
+  margin-bottom: 2px;
   margin-left: 44px;
   width: 64px;
 }
@@ -188,7 +188,7 @@
   display: flex;
   height: 20px;
   justify-content: flex-end;
-  left: 643px;
+  left: 45%;
   min-width: 73px;
   position: absolute;
   top: 581px;
@@ -235,7 +235,7 @@
   left: 0;
   position: absolute;
   top: 626px;
-  width: 1440px;
+  width: 100%;
 }
 
 .index .group-27 {
@@ -259,24 +259,26 @@
 }
 
 .index .real-starlight-right-1.animate-enter6 {
-  animation: animate-enter6-frames 0.50s ease-in-out 0.00s 1 normal forwards;
+  animation: animate-enter6-frames 0.5s ease-in-out 0s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(25px, 0);
 }
 
 @keyframes animate-enter6-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .index .overlap-group14 {
   height: 3042px;
-  margin-right: 94.0px;
+  margin-right: 94px;
   margin-top: 148px;
   position: relative;
   width: 1144px;
@@ -688,14 +690,14 @@ transform: translate(0,0);
   height: 105px;
   justify-content: flex-end;
   margin-top: 99px;
-  min-width: 1440px;
+  min-width: 100%;
   padding: 27px 53px;
 }
 
 .index .cornerstone-2 {
   align-self: center;
   height: 48px;
-  margin-top: 1.0px;
+  margin-top: 1px;
   width: 48px;
 }
 
@@ -719,7 +721,7 @@ transform: translate(0,0);
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-bottom: -5.0px;
+  margin-bottom: -5px;
   margin-left: 40px;
   min-height: 38px;
   width: 100px;
@@ -733,7 +735,7 @@ transform: translate(0,0);
 
 .index .line-6 {
   height: 5px;
-  margin-left: 4.0px;
+  margin-left: 4px;
   margin-top: 8px;
   width: 70px;
 }
@@ -756,7 +758,7 @@ transform: translate(0,0);
 
 .index .line-7 {
   height: 5px;
-  margin-left: 7.0px;
+  margin-left: 7px;
   margin-top: 5px;
   width: 38px;
 }
@@ -804,7 +806,7 @@ transform: translate(0,0);
   flex-direction: column;
   min-height: 238px;
   padding: 63px 503px;
-  width: 1440px;
+  width: 100%;
 }
 
 .index .copyright {
@@ -836,7 +838,7 @@ transform: translate(0,0);
 
 .index .line-7-1 {
   height: 5px;
-  margin-left: 2.0px;
+  margin-left: 2px;
   margin-top: 6px;
   width: 100px;
 }
@@ -858,7 +860,7 @@ transform: translate(0,0);
 
 .index .line-8-1 {
   height: 5px;
-  margin-right: 5.0px;
+  margin-right: 5px;
   margin-top: 6px;
   width: 122px;
 }

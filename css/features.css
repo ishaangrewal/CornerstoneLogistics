@@ -7,22 +7,22 @@
   flex-direction: column;
   min-height: 4977px;
   overflow-x: hidden;
-  width: 1440px;
+  width: 100%;
 }
 
 .features .group-container {
   align-items: center;
   display: flex;
   flex-direction: column;
-  margin-left: 6.0px;
+  margin-left: 6px;
   min-height: 3154px;
-  width: 1446px;
+  width: 102%;
 }
 
 .features .overlap-group8 {
   height: 686px;
   position: relative;
-  width: 1446px;
+  width: 102%;
 }
 
 .features .rectangle-2 {
@@ -30,7 +30,7 @@
   left: 1px;
   position: absolute;
   top: 1px;
-  width: 1440px;
+  width: 100%;
 }
 
 .features .vector-10 {
@@ -38,7 +38,7 @@
   left: 1px;
   position: absolute;
   top: 475px;
-  width: 1440px;
+  width: 100%;
 }
 
 .features .features-1 {
@@ -255,7 +255,7 @@
   display: flex;
   height: 106px;
   left: 0;
-  min-width: 1446px;
+  min-width: 102%;
   padding: 28px 49px;
   position: absolute;
   top: 0;
@@ -271,7 +271,7 @@
   cursor: pointer;
   height: 18px;
   letter-spacing: 0;
-  margin-bottom: 2.0px;
+  margin-bottom: 2px;
   margin-left: 780px;
   width: 40px;
 }
@@ -280,7 +280,7 @@
   cursor: pointer;
   height: 18px;
   letter-spacing: 0;
-  margin-bottom: 2.0px;
+  margin-bottom: 2px;
   margin-left: 44px;
   width: 40px;
 }
@@ -288,7 +288,7 @@
 .features .features-2 {
   height: 18px;
   letter-spacing: 0;
-  margin-bottom: 2.0px;
+  margin-bottom: 2px;
   margin-left: 44px;
   width: 64px;
 }
@@ -320,7 +320,7 @@
 .features .group-35 {
   align-items: center;
   display: flex;
-  margin-right: 100.0px;
+  margin-right: 100px;
   margin-top: 70px;
   min-width: 1078px;
 }
@@ -329,7 +329,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-bottom: 11.0px;
+  margin-bottom: 11px;
   min-height: 254px;
   width: 515px;
 }
@@ -369,7 +369,7 @@
 
 .features .line-7 {
   height: 5px;
-  margin-right: 21.0px;
+  margin-right: 21px;
   margin-top: 8px;
   width: 143px;
 }
@@ -385,18 +385,20 @@
 }
 
 .features .with-advanced-photo.animate-enter5 {
-  animation: animate-enter5-frames 0.50s ease-in-out 0.00s 1 normal forwards;
+  animation: animate-enter5-frames 0.5s ease-in-out 0s 1 normal forwards;
   opacity: 0;
   transform: translate(-25px, 0);
 }
 
 @keyframes animate-enter5-frames {
-  from{opacity: 0;
-transform: translate(-25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(-25px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .features .overlap-group-1 {
@@ -458,10 +460,10 @@ transform: translate(0,0);
 
 .features .overlap-group18 {
   height: 1115px;
-  margin-right: 6.0px;
+  margin-right: 6px;
   margin-top: 61px;
   position: relative;
-  width: 1440px;
+  width: 100%;
 }
 
 .features .overlap-group11 {
@@ -469,7 +471,7 @@ transform: translate(0,0);
   left: 0;
   position: absolute;
   top: 0;
-  width: 1440px;
+  width: 100%;
 }
 
 .features .group-41 {
@@ -477,7 +479,7 @@ transform: translate(0,0);
   left: 0;
   position: absolute;
   top: 0;
-  width: 1440px;
+  width: 100%;
 }
 
 .features .on-top-of-timelines {
@@ -492,18 +494,20 @@ transform: translate(0,0);
 }
 
 .features .on-top-of-timelines.animate-enter {
-  animation: animate-enter-frames 0.50s ease-in-out 0.00s 1 normal forwards;
+  animation: animate-enter-frames 0.5s ease-in-out 0s 1 normal forwards;
   opacity: 0;
   transform: translate(25px, 0);
 }
 
 @keyframes animate-enter-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .features .rectangle-41 {
@@ -602,18 +606,20 @@ transform: translate(0,0);
 }
 
 .features .enjoy-financial-clar.animate-enter1 {
-  animation: animate-enter1-frames 0.50s ease-in-out 0.00s 1 normal forwards;
+  animation: animate-enter1-frames 0.5s ease-in-out 0s 1 normal forwards;
   opacity: 0;
   transform: translate(-25px, 0);
 }
 
 @keyframes animate-enter1-frames {
-  from{opacity: 0;
-transform: translate(-25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(-25px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .features .overlap-group14 {
@@ -653,10 +659,10 @@ transform: translate(0,0);
   background-size: 100% 100%;
   display: flex;
   height: 767px;
-  margin-right: 6.0px;
+  margin-right: 6px;
   margin-top: 98px;
-  min-width: 1440px;
-  padding: 194.7px 186.0px;
+  min-width: 100%;
+  padding: 194.7px 186px;
 }
 
 .features .overlap-group7 {
@@ -725,25 +731,27 @@ transform: translate(0,0);
 }
 
 .features .pull-your-clients-re.animate-enter2 {
-  animation: animate-enter2-frames 0.50s ease-in-out 0.00s 1 normal forwards;
+  animation: animate-enter2-frames 0.5s ease-in-out 0s 1 normal forwards;
   opacity: 0;
   transform: translate(25px, 0);
 }
 
 @keyframes animate-enter2-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .features .flex-row-2 {
   align-items: flex-start;
   display: flex;
   height: 412px;
-  margin-right: 62.0px;
+  margin-right: 62px;
   min-width: 962px;
 }
 
@@ -806,18 +814,20 @@ transform: translate(0,0);
 }
 
 .features .with-our-bespoke-bil.animate-enter3 {
-  animation: animate-enter3-frames 0.50s ease-in-out 0.00s 1 normal forwards;
+  animation: animate-enter3-frames 0.5s ease-in-out 0s 1 normal forwards;
   opacity: 0;
   transform: translate(-25px, 0);
 }
 
 @keyframes animate-enter3-frames {
-  from{opacity: 0;
-transform: translate(-25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(-25px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .features .overlap-group5 {
@@ -831,10 +841,10 @@ transform: translate(0,0);
   align-items: center;
   display: flex;
   flex-direction: column;
-  margin-left: 8.0px;
+  margin-left: 8px;
   margin-top: 18px;
   min-height: 1393px;
-  width: 1448px;
+  width: 102%;
 }
 
 .features .overlap-group13 {
@@ -844,8 +854,8 @@ transform: translate(0,0);
   display: flex;
   height: 767px;
   justify-content: flex-end;
-  margin-right: 8.0px;
-  min-width: 1440px;
+  margin-right: 8px;
+  min-width: 100%;
   padding: 179.3px 142px;
 }
 
@@ -869,7 +879,7 @@ transform: translate(0,0);
   display: flex;
   flex-direction: column;
   margin-left: 410px;
-  margin-top: 21.0px;
+  margin-top: 21px;
   min-height: 324px;
   width: 515px;
 }
@@ -913,23 +923,25 @@ transform: translate(0,0);
 }
 
 .features .apart-from-being-pul.animate-enter4 {
-  animation: animate-enter4-frames 0.50s ease-in-out 0.00s 1 normal forwards;
+  animation: animate-enter4-frames 0.5s ease-in-out 0s 1 normal forwards;
   opacity: 0;
   transform: translate(25px, 0);
 }
 
 @keyframes animate-enter4-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .features .overlap-group12 {
   height: 102px;
-  margin-right: 59.0px;
+  margin-right: 59px;
   margin-top: 26px;
   position: relative;
   width: 509px;
@@ -957,7 +969,7 @@ transform: translate(0,0);
 .features .flex-row-5 {
   align-items: flex-start;
   display: flex;
-  margin-left: 34.0px;
+  margin-left: 34px;
   margin-top: 21px;
   min-width: 662px;
 }
@@ -1013,10 +1025,10 @@ transform: translate(0,0);
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-left: 2.0px;
+  margin-left: 2px;
   margin-top: 77px;
   min-height: 343px;
-  width: 1446px;
+  width: 102%;
 }
 
 .features .overlap-group1 {
@@ -1025,14 +1037,14 @@ transform: translate(0,0);
   display: flex;
   height: 105px;
   justify-content: flex-end;
-  min-width: 1440px;
+  min-width: 100%;
   padding: 27px 53px;
 }
 
 .features .cornerstone-2 {
   align-self: center;
   height: 48px;
-  margin-top: 1.0px;
+  margin-top: 1px;
   width: 48px;
 }
 
@@ -1056,7 +1068,7 @@ transform: translate(0,0);
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-bottom: -5.0px;
+  margin-bottom: -5px;
   margin-left: 40px;
   min-height: 38px;
   width: 100px;
@@ -1070,7 +1082,7 @@ transform: translate(0,0);
 
 .features .line-6 {
   height: 5px;
-  margin-left: 4.0px;
+  margin-left: 4px;
   margin-top: 8px;
   width: 70px;
 }
@@ -1093,7 +1105,7 @@ transform: translate(0,0);
 
 .features .line-7-1 {
   height: 5px;
-  margin-left: 7.0px;
+  margin-left: 7px;
   margin-top: 5px;
   width: 38px;
 }
@@ -1141,7 +1153,7 @@ transform: translate(0,0);
   flex-direction: column;
   min-height: 238px;
   padding: 63px 503px;
-  width: 1440px;
+  width: 100%;
 }
 
 .features .copyright {
@@ -1173,7 +1185,7 @@ transform: translate(0,0);
 
 .features .line-7-2 {
   height: 5px;
-  margin-left: 2.0px;
+  margin-left: 2px;
   margin-top: 6px;
   width: 100px;
 }
@@ -1195,7 +1207,7 @@ transform: translate(0,0);
 
 .features .line-8-1 {
   height: 5px;
-  margin-right: 5.0px;
+  margin-right: 5px;
   margin-top: 6px;
   width: 122px;
 }

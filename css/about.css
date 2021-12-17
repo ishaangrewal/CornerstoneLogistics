@@ -7,14 +7,14 @@
   flex-direction: column;
   height: 3217px;
   overflow: hidden;
-  width: 1440px;
+  width: 100%;
 }
 
 .about .overlap-group15 {
   height: 766px;
-  margin-left: 6.0px;
+  margin-left: 6px;
   position: relative;
-  width: 1446px;
+  width: 102%;
 }
 
 .about .rectangle-2 {
@@ -22,7 +22,7 @@
   left: 0;
   position: absolute;
   top: 1px;
-  width: 1440px;
+  width: 100%;
 }
 
 .about .header {
@@ -30,7 +30,7 @@
   display: flex;
   height: 106px;
   left: 0;
-  min-width: 1446px;
+  min-width: 102%;
   padding: 28px 49px;
   position: absolute;
   top: 0;
@@ -46,7 +46,7 @@
   cursor: pointer;
   height: 18px;
   letter-spacing: 0;
-  margin-bottom: 2.0px;
+  margin-bottom: 2px;
   margin-left: 780px;
   width: 40px;
 }
@@ -55,7 +55,7 @@
   cursor: pointer;
   height: 18px;
   letter-spacing: 0;
-  margin-bottom: 2.0px;
+  margin-bottom: 2px;
   margin-left: 44px;
   width: 40px;
 }
@@ -64,7 +64,7 @@
   cursor: pointer;
   height: 18px;
   letter-spacing: 0;
-  margin-bottom: 2.0px;
+  margin-bottom: 2px;
   margin-left: 44px;
   width: 64px;
 }
@@ -107,7 +107,7 @@
   left: 0;
   position: absolute;
   top: 556px;
-  width: 1440px;
+  width: 100%;
 }
 
 .about .eliminate-the-use-of {
@@ -171,7 +171,7 @@
 .about .overlap-group-container {
   align-items: flex-start;
   display: flex;
-  margin-left: 4.0px;
+  margin-left: 4px;
   margin-top: 71px;
   min-width: 1202px;
 }
@@ -313,19 +313,20 @@
   margin-top: 90px;
   min-height: 1222px;
   padding: 222px 97px;
-  width: 1440px;
+  width: 100%;
 }
 
 .about .our-board-of-advisors {
   height: 52px;
   letter-spacing: 0;
-  margin-right: 1.0px;
+  margin-right: 1px;
   width: 479px;
+  align-items: center;
 }
 
 .about .line-6 {
   height: 5px;
-  margin-left: 10.0px;
+  margin-left: 10px;
   width: 456px;
 }
 
@@ -342,7 +343,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-top: 6.0px;
+  margin-top: 6px;
   min-height: 428px;
   width: 387px;
 }
@@ -432,7 +433,7 @@
 
 .about .ellipse-15-1 {
   height: 128px;
-  margin-bottom: 8.0px;
+  margin-bottom: 8px;
   object-fit: cover;
   width: 128px;
 }
@@ -487,7 +488,7 @@
 
 .about .overlap-group8 {
   height: 209px;
-  margin-right: 3.0px;
+  margin-right: 3px;
   position: relative;
   width: 387px;
 }
@@ -595,7 +596,7 @@
 
 .about .overlap-group12 {
   height: 206px;
-  margin-right: 3.0px;
+  margin-right: 3px;
   margin-top: 20px;
   position: relative;
   width: 390px;
@@ -661,14 +662,14 @@
   display: flex;
   flex-direction: column;
   margin-left: 32px;
-  margin-top: 4.0px;
+  margin-top: 4px;
   min-height: 430px;
   width: 390px;
 }
 
 .about .overlap-group7 {
   height: 206px;
-  margin-left: 3.0px;
+  margin-left: 3px;
   position: relative;
   width: 387px;
 }
@@ -784,7 +785,7 @@
 
 .about .overlap-group14 {
   height: 102px;
-  margin-right: 31.0px;
+  margin-right: 31px;
   margin-top: 35px;
   position: relative;
   width: 509px;
@@ -812,7 +813,7 @@
 .about .flex-row-1 {
   align-items: flex-start;
   display: flex;
-  margin-left: 62.0px;
+  margin-left: 62px;
   margin-top: 21px;
   min-width: 662px;
 }
@@ -869,10 +870,10 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-left: 6.0px;
+  margin-left: 6px;
   margin-top: 107px;
   min-height: 343px;
-  width: 1446px;
+  width: 102%;
 }
 
 .about .overlap-group2 {
@@ -881,14 +882,14 @@
   display: flex;
   height: 105px;
   justify-content: flex-end;
-  min-width: 1440px;
+  min-width: 100%;
   padding: 27px 53px;
 }
 
 .about .cornerstone-2 {
   align-self: center;
   height: 48px;
-  margin-top: 1.0px;
+  margin-top: 1px;
   width: 48px;
 }
 
@@ -912,7 +913,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-bottom: -5.0px;
+  margin-bottom: -5px;
   margin-left: 40px;
   min-height: 38px;
   width: 100px;
@@ -926,7 +927,7 @@
 
 .about .line-6-1 {
   height: 5px;
-  margin-left: 4.0px;
+  margin-left: 4px;
   margin-top: 8px;
   width: 70px;
 }
@@ -949,7 +950,7 @@
 
 .about .line-7 {
   height: 5px;
-  margin-left: 7.0px;
+  margin-left: 7px;
   margin-top: 5px;
   width: 38px;
 }
@@ -997,7 +998,7 @@
   flex-direction: column;
   min-height: 238px;
   padding: 63px 503px;
-  width: 1440px;
+  width: 100%;
 }
 
 .about .copyright {
@@ -1029,7 +1030,7 @@
 
 .about .line-7-1 {
   height: 5px;
-  margin-left: 2.0px;
+  margin-left: 2px;
   margin-top: 6px;
   width: 100px;
 }
@@ -1051,7 +1052,7 @@
 
 .about .line-8-1 {
   height: 5px;
-  margin-right: 5.0px;
+  margin-right: 5px;
   margin-top: 6px;
   width: 122px;
 }
