@@ -1,0 +1,69 @@
+/* screen - message-after-sign-up */
+
+.message-after-sign-up {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 235px;
+  overflow: hidden;
+  width: 377px;
+}
+
+.message-after-sign-up .group-75 {
+  align-items: flex-start;
+  display: flex;
+  height: 235px;
+  margin-left: 2.0px;
+  min-width: 379px;
+}
+
+.message-after-sign-up .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-21-1@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 235px;
+  padding: 34px 22px;
+  width: 377px;
+}
+
+.message-after-sign-up .overlap-group1 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--white);
+  border-radius: 36px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  margin-left: 1.0px;
+  margin-top: 12px;
+  min-width: 72px;
+  padding: 5.3px 26.2px;
+}
+
+.message-after-sign-up .group-74 {
+  background-image: url(../img/frame-3-1@2x.png);
+  background-size: 100% 100%;
+  height: 27px;
+  transform: rotate(-45.00deg);
+  width: 19px;
+}
+
+.message-after-sign-up .thank-you-your-help {
+  height: 66px;
+  letter-spacing: 0;
+  margin-top: 17px;
+  text-align: center;
+  width: 332px;
+}
+
+.message-after-sign-up .we-will-be-in-touch-soon {
+  height: 52px;
+  letter-spacing: 0;
+  margin-right: 81.0px;
+  margin-top: 122px;
+  text-align: center;
+  width: 184px;
+}

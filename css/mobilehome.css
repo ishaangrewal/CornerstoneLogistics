@@ -1,0 +1,748 @@
+/* screen - mobilehome */
+
+.mobilehome {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3355px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.mobilehome .overlap-group7 {
+  height: 906px;
+  position: relative;
+  width: 375px;
+}
+
+.mobilehome .ellipse-26 {
+  background-color: var(--candlelight);
+  border-radius: 71.5px/72px;
+  height: 144px;
+  left: 76px;
+  position: absolute;
+  top: 702px;
+  width: 143px;
+}
+
+.mobilehome .ellipse-27 {
+  border-radius: 47px/46px;
+  height: 92px;
+  left: 101px;
+  position: absolute;
+  top: 728px;
+  width: 94px;
+}
+
+.mobilehome .rectangle-2 {
+  height: 621px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.mobilehome .vector-9 {
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 570px;
+  width: 375px;
+}
+
+.mobilehome .header {
+  align-items: flex-end;
+  display: flex;
+  height: 60px;
+  left: 0;
+  min-width: 375px;
+  padding: 14px 22px;
+  position: absolute;
+  top: 0;
+}
+
+.mobilehome .cornerstone-3 {
+  height: 28px;
+  width: 28px;
+}
+
+.mobilehome .rectangle-1 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-15@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  display: flex;
+  height: 28px;
+  justify-content: flex-end;
+  margin-left: 164px;
+  min-width: 87px;
+  padding: 8px 15.9px;
+  transition: all 0.2s ease;
+}
+
+.mobilehome .rectangle-1:hover {
+  transform: scale(1.1);
+}
+
+.mobilehome .get-started {
+  height: 11px;
+  letter-spacing: 0;
+  width: 55px;
+}
+
+.mobilehome .group-77 {
+  align-self: center;
+  cursor: pointer;
+  height: 12px;
+  margin-left: 16px;
+  margin-top: 8.0px;
+  width: 22px;
+}
+
+.mobilehome .every-part-of-your-j {
+  height: 48px;
+  left: 50px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 150px;
+  width: 275px;
+}
+
+.mobilehome .introducing-cornerstone {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: var(--font-size-m);
+  font-weight: 200;
+  height: 31px;
+  left: 73px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 96px;
+  width: 229px;
+}
+
+.mobilehome .become-an-early-adopter {
+  height: 33px;
+  left: 78px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 467px;
+  width: 219px;
+}
+
+.mobilehome .rectangle-18 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 32px;
+  left: 43px;
+  position: absolute;
+  top: 486px;
+  width: 288px;
+}
+
+.mobilehome .email {
+  background-color: transparent;
+  border: 0;
+  height: 14px;
+  left: 53px;
+  letter-spacing: 0;
+  padding: 0;
+  position: absolute;
+  top: 497px;
+  width: 263px;
+}
+
+.mobilehome .email::placeholder {
+  color: #0000003d;
+}
+
+.mobilehome .group-83 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 28px;
+  left: 151px;
+  min-width: 67px;
+  position: absolute;
+  top: 537px;
+  transition: all 0.2s ease;
+}
+
+.mobilehome .group-83:hover {
+  transform: scale(1.1);
+}
+
+.mobilehome .overlap-group-2 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-14@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 28px;
+  min-width: 65px;
+  padding: 7px 15px;
+}
+
+.mobilehome .join {
+  height: 10px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 35px;
+}
+
+.mobilehome .real-midnight-1 {
+  height: 293px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 613px;
+  width: 214px;
+}
+
+.mobilehome .overlap-group11 {
+  height: 82px;
+  margin-top: 13px;
+  position: relative;
+  width: 323px;
+}
+
+.mobilehome .communicate-better {
+  height: 23px;
+  left: 72px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 4px;
+}
+
+.mobilehome .easily-exchange-docu {
+  height: 82px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 323px;
+}
+
+.mobilehome .group-78 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 2.49px;
+  margin-top: 13px;
+  min-width: 99px;
+  transition: all 0.2s ease;
+}
+
+.mobilehome .group-78:hover {
+  transform: scale(1.1);
+}
+
+.mobilehome .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-21-7@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 28px;
+  justify-content: flex-end;
+  min-width: 99px;
+  padding: 7.0px 14.5px;
+}
+
+.mobilehome .learn-more {
+  height: 12px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 70px;
+}
+
+.mobilehome .overlap-group6 {
+  height: 264px;
+  margin-left: 68.0px;
+  margin-top: 48px;
+  position: relative;
+  width: 189px;
+}
+
+.mobilehome .ellipse-20 {
+  background-color: var(--candlelight);
+  border-radius: 71.5px/72px;
+  height: 144px;
+  left: 46px;
+  position: absolute;
+  top: 53px;
+  width: 143px;
+}
+
+.mobilehome .ellipse-25 {
+  border-radius: 47px/46px;
+  height: 92px;
+  left: 71px;
+  position: absolute;
+  top: 79px;
+  width: 94px;
+}
+
+.mobilehome .overlap-group1 {
+  height: 264px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.mobilehome .side-button {
+  height: 31px;
+  left: 130px;
+  position: absolute;
+  top: 79px;
+  width: 1px;
+}
+
+.mobilehome .left-buttons {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.mobilehome .body {
+  height: 264px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 129px;
+}
+
+.mobilehome .camera {
+  height: 5px;
+  left: 46px;
+  position: absolute;
+  top: 7px;
+  width: 5px;
+}
+
+.mobilehome .screen {
+  height: 252px;
+  left: 8px;
+  position: absolute;
+  top: 6px;
+  width: 116px;
+}
+
+.mobilehome .speaker {
+  height: 2px;
+  left: 28px;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.mobilehome .overlap-group10 {
+  height: 128px;
+  margin-top: 44px;
+  position: relative;
+  width: 323px;
+}
+
+.mobilehome .understand-your-invo {
+  height: 46px;
+  left: 52px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.mobilehome .with-a-bespoke-line {
+  height: 87px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  width: 323px;
+}
+
+.mobilehome .group-79 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 2.49px;
+  margin-top: 4px;
+  min-width: 99px;
+  transition: all 0.2s ease;
+}
+
+.mobilehome .group-79:hover {
+  transform: scale(1.1);
+}
+
+.mobilehome .overlap-group5 {
+  height: 264px;
+  margin-right: 53.0px;
+  margin-top: 44px;
+  position: relative;
+  width: 194px;
+}
+
+.mobilehome .ellipse-28 {
+  background-color: var(--candlelight);
+  border-radius: 71.5px/72px;
+  height: 144px;
+  left: 0;
+  position: absolute;
+  top: 60px;
+  width: 143px;
+}
+
+.mobilehome .ellipse-29 {
+  border-radius: 47px/46px;
+  height: 92px;
+  left: 25px;
+  position: absolute;
+  top: 86px;
+  width: 94px;
+}
+
+.mobilehome .overlap-group-1 {
+  height: 264px;
+  left: 63px;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.mobilehome .overlap-group9 {
+  height: 82px;
+  margin-left: 12.0px;
+  margin-top: 44px;
+  position: relative;
+  width: 323px;
+}
+
+.mobilehome .live-your-timeline {
+  height: 23px;
+  left: 77px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.mobilehome .anticipate-prepare {
+  height: 82px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 323px;
+}
+
+.mobilehome .group-80 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 2.49px;
+  min-width: 99px;
+  transition: all 0.2s ease;
+}
+
+.mobilehome .group-80:hover {
+  transform: scale(1.1);
+}
+
+.mobilehome .overlap-group12 {
+  height: 294px;
+  margin-left: 12.0px;
+  margin-top: 50px;
+  position: relative;
+  width: 233px;
+}
+
+.mobilehome .ellipse-30 {
+  background-color: var(--candlelight);
+  border-radius: 71.5px/72px;
+  height: 144px;
+  left: 90px;
+  position: absolute;
+  top: 94px;
+  width: 143px;
+}
+
+.mobilehome .ellipse-31 {
+  border-radius: 47px/46px;
+  height: 92px;
+  left: 115px;
+  position: absolute;
+  top: 120px;
+  width: 94px;
+}
+
+.mobilehome .real-midnight-2 {
+  height: 294px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 221px;
+}
+
+.mobilehome .organize-your-projects {
+  height: 23px;
+  letter-spacing: 0;
+  margin-left: 3.0px;
+  margin-top: 38px;
+  min-width: 196px;
+}
+
+.mobilehome .scroll-through-your {
+  height: 82px;
+  letter-spacing: 0;
+  margin-top: 18px;
+  text-align: center;
+  width: 323px;
+}
+
+.mobilehome .group-8 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 8.49px;
+  min-width: 99px;
+  transition: all 0.2s ease;
+}
+
+.mobilehome .group-8:hover {
+  transform: scale(1.1);
+}
+
+.mobilehome .overlap-group8 {
+  height: 264px;
+  margin-right: 49.0px;
+  margin-top: 55px;
+  position: relative;
+  width: 194px;
+}
+
+.mobilehome .ellipse-32 {
+  background-color: var(--candlelight);
+  border-radius: 71.5px/72px;
+  height: 144px;
+  left: 0;
+  position: absolute;
+  top: 72px;
+  width: 143px;
+}
+
+.mobilehome .ellipse-33 {
+  border-radius: 47px/46px;
+  height: 92px;
+  left: 25px;
+  position: absolute;
+  top: 98px;
+  width: 94px;
+}
+
+.mobilehome .bring-your-texts-to-life {
+  height: 23px;
+  letter-spacing: 0;
+  margin-left: 15.0px;
+  margin-top: 38px;
+  min-width: 192px;
+}
+
+.mobilehome .automatically-genera {
+  height: 82px;
+  letter-spacing: 0;
+  margin-left: 10.0px;
+  text-align: center;
+  width: 323px;
+}
+
+.mobilehome .group-85 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 8.0px;
+  margin-top: 67px;
+  min-width: 383px;
+}
+
+.mobilehome .overlap-group4 {
+  height: 245px;
+  position: relative;
+  width: 375px;
+}
+
+.mobilehome .rectangle-26 {
+  background-color: var(--candlelight);
+  height: 121px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.mobilehome .cornerstone-2 {
+  height: 28px;
+  left: 20px;
+  position: absolute;
+  top: 9px;
+  width: 28px;
+}
+
+.mobilehome .group-24 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  left: 148px;
+  min-width: 203px;
+  position: absolute;
+  top: 14px;
+}
+
+.mobilehome .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -2px;
+  min-height: 26px;
+  width: 58px;
+}
+
+.mobilehome .advisors {
+  height: 18px;
+  letter-spacing: 0;
+  width: 58px;
+}
+
+.mobilehome .line-6 {
+  height: 2px;
+  margin-left: 0.95px;
+  margin-top: 6px;
+  width: 46px;
+}
+
+.mobilehome .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -2px;
+  margin-left: 18px;
+  min-height: 26px;
+  width: 37px;
+}
+
+.mobilehome .team {
+  height: 18px;
+  letter-spacing: 0;
+  width: 37px;
+}
+
+.mobilehome .line-9 {
+  height: 2px;
+  margin-left: 3.82px;
+  margin-top: 6px;
+  width: 29px;
+}
+
+.mobilehome .flex-col-2 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -2px;
+  margin-left: 18px;
+  min-height: 26px;
+  width: 65px;
+}
+
+.mobilehome .investors {
+  height: 18px;
+  letter-spacing: 0;
+  width: 65px;
+}
+
+.mobilehome .line-10 {
+  height: 2px;
+  margin-right: 4.77px;
+  margin-top: 6px;
+  width: 54px;
+}
+
+.mobilehome .join-our {
+  height: 25px;
+  left: 72px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 61px;
+}
+
+.mobilehome .mobile-app-store-badge {
+  height: 27px;
+  left: 91px;
+  position: absolute;
+  top: 67px;
+  width: 93px;
+}
+
+.mobilehome .mobile-app-store-badge-1 {
+  height: 27px;
+  left: 212px;
+  position: absolute;
+  top: 67px;
+  width: 82px;
+}
+
+.mobilehome .rectangle-27 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 120px;
+  width: 375px;
+}
+
+.mobilehome .line-7 {
+  height: 5px;
+  left: 76px;
+  position: absolute;
+  top: 215px;
+  width: 65px;
+}
+
+.mobilehome .line-8 {
+  height: 5px;
+  left: 220px;
+  position: absolute;
+  top: 212px;
+  width: 72px;
+}
+
+.mobilehome .copyright {
+  height: 58px;
+  left: 73px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 122px;
+  width: 223px;
+}
+
+.mobilehome .legal-policy {
+  height: 16px;
+  left: 74px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 190px;
+}
+
+.mobilehome .privacy-policy {
+  height: 23px;
+  left: 213px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 180px;
+  width: 83px;
+}
