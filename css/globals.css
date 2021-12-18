@@ -6,7 +6,13 @@
   display: contents;
   text-decoration: none;
 }
-
+.button {
+  background-color: #5559e6;
+  width: 150%;
+  border-width: 0px;
+  cursor: pointer;
+  margin-left: -25%;
+}
 .container-center-horizontal {
   display: flex;
   flex-direction: row;
