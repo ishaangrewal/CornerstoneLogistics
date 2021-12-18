@@ -65,7 +65,7 @@
   display: flex;
   height: 36px;
   left: 7.2%;
-  min-width: 33.4%;
+  min-width: 481px;
   position: absolute;
   top: 569px;
 }
@@ -89,7 +89,7 @@
   height: 36px;
   letter-spacing: 0;
   padding: 0;
-  width: 34%;
+  width: 481px;
 }
 
 .index .email-1::placeholder {
