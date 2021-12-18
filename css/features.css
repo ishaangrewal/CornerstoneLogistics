@@ -257,7 +257,9 @@
   left: 0;
   min-width: 102%;
   padding: 28px 49px;
-  position: absolute;
+  position: fixed;
+  background-color: #fed215;
+  z-index: 2;
   top: 0;
 }
 

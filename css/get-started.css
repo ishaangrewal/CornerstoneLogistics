@@ -169,8 +169,10 @@
   left: 0;
   min-width: 102%;
   padding: 28px 49px;
-  position: absolute;
+  position: fixed;
   top: 0;
+  background-color: #fed215;
+  z-index: 2;
 }
 
 .get-started .cornerstone-3 {
