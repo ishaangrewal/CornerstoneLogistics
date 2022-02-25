@@ -274,7 +274,7 @@
 
 .about .overlap-group18 {
   height: 350px;
-  margin-left: 136px;
+  margin-left: 36px;
   position: relative;
   width: 310px;
 }
@@ -286,6 +286,15 @@
   position: absolute;
   top: 196px;
   width: 146px;
+}
+
+.about .aniruddh-sriram {
+  height: 26px;
+  left: 80px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 196px;
+  width: 166px;
 }
 
 .about .techical-co-founder {
